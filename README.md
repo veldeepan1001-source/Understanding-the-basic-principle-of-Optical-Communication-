@@ -18,7 +18,7 @@
 FORMULA:
 
 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/7ad4cf5d-3a2a-4096-a85a-7859bb004f10" />
+![WhatsApp Image 2026-02-04 at 5 03 06 PM](https://github.com/user-attachments/assets/f248ab2c-934d-430d-bd30-4e43b8c35277)
 
 RESULT:
 Thus The experiment has been succesfully completed and Output is verified
